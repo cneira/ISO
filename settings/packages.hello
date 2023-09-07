@@ -224,3 +224,5 @@ alsa-seq-server
 sysutils/fusefs-sshfs
 # As a courtesy for third party developers
 sysutils/kdialog
+# pulse audio for Linux Emulation
+pulseaudio
